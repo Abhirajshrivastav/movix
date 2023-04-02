@@ -11,7 +11,7 @@ import Genres from "../../../components/genres/Genres";
 
 import Img from "../../../components/lazyLoadImages/img";
 import PosterFallback from "../../../assets/no-poster.png";
-import CircleRating from "../../../components/circleRating/circleRating";
+import CircleRating from "../../../components/circleRating/CircleRating";
 import { PlayIcon } from "../PlayIcon";
 import VideoPopup from "../../../components/videoPopup/VideoPopup";
 
