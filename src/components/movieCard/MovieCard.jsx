@@ -8,7 +8,7 @@ import Img from "../../components/lazyLoadImages/img";
 
 import Genres from "../genres/Genres";
 import PosterFallback from "../../assets/no-poster.png";
-import CircleRating from "../circleRating/circleRating";
+import CircleRating from "../circleRating/CircleRating";
 
 const MovieCard = ({ data, fromSearch, mediaType }) => {
     const { url } = useSelector((state) => state.home);
